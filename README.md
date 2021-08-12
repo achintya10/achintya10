@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @achintya10
-- 👀 I’m interested in Computer Vision, image classfication
-- 🌱 I’m currently learning NLP
+- 👀 I’m interested in Computer Vision, image classfication, NLP
+- 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on any machine learning projects
 - 📫 How to reach me mail:achintya.chakraborty@gmail.com
 
